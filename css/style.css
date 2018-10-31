@@ -206,6 +206,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 	margin-bottom: 30px;
 	line-height: 21px;
 }
+.skill-div {
+	margin: 41px 0 41px 0;
+	text-align: center;
+}
+.skills {
+	margin-bottom: 30px;
+	position: relative;
+}
+.my-skills {
+	font-size: 18px;
+}
 /* Portfolio Section */
 #portfolio {
 	padding: 120px 0;
