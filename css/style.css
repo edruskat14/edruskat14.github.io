@@ -207,8 +207,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 	line-height: 21px;
 }
 .skill-div {
-	margin: 41px 0 41px 0;
+	padding: 41px 0 41px 0;
 	text-align: center;
+	background-color: rgb(235, 235, 235);
 }
 .skills {
 	margin-bottom: 30px;
@@ -306,6 +307,7 @@ ol.type li a:hover {
 	overflow: hidden;
 	position: relative;
 }
+
 .hover-bg .hover-text {
 	position: absolute;
 	text-align: center;
